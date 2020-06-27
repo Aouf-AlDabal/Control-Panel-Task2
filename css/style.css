@@ -1,0 +1,51 @@
+body {
+    background-color: #455a64;
+    text-align: center;
+
+}
+
+
+img {
+    margin: auto;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    width: 400px;
+    color: white;
+    font-size: 3em;
+    font-weight: 300;
+    letter-spacing: 0.1em;
+}
+
+.hole {
+
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    text-align: center;
+    display: table;
+    border: 20px solid white;
+}
+
+.middle {
+    padding: 5%;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+.btn-circle.btn-md {
+    width: 50px;
+    height: 50px;
+    padding: 7px 10px;
+    border-radius: 25px;
+    font-size: 10px;
+    text-align: center;
+}
