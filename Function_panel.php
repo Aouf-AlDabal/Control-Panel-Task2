@@ -19,10 +19,10 @@ function ReadData()
     if (isset($_POST['forward'])) {
         echo $row['forward'];
     }
-    if (isset($_POST['left'])) {
+    if (isset($_POST['right'])) {
         echo $row['rightway'];
     }
-    if (isset($_POST['right'])) {
+    if (isset($_POST['left'])) {
         echo $row['leftway'];
     }
 }
