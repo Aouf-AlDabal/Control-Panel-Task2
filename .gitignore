@@ -1,6 +1,6 @@
-*.pl linguist-detectable=true
+*.pl linguist-detectable=false
 *.php linguist-detectable=true
-*.js linguist-detectable=true
+*.js linguist-detectable=false
 *.html linguist-detectable=false
 *.html inguist-detectable=false
 public/libs/* linguist-vendored
